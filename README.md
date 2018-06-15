@@ -1,3 +1,2 @@
 # Galaxies
-PHYS 474 
-Code used for Galaxies assignments
+PHYS 474 - Code used for Galaxies assignments
